@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"origA/userA/projA"
 	"origB/userB/projB"
 )
-import "origA/userA/projA"
 
 func main() {
 	A := projA.New()
